@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
-import { 
-  Leaf, Mountain, Package, Plus, Trash2, CheckCircle, Circle,
+import {
+  Leaf, Mountain, Package, Plus, Trash2, CheckCircle,
   Tent, Flame, Thermometer, Shirt, Zap, BriefcaseMedical,
-  Scale, X, Map, ArrowRight, Camera, Calendar, ShoppingBag,
+  Scale, X, Map, Camera, Calendar,
   Coins, Wallet, type LucideProps
 } from 'lucide-react';
 
